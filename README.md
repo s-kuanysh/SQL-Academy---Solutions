@@ -8,7 +8,7 @@ Here are the solutions only for publicly open problems. MySQL syntax.
 
 Difficulty: Easy
 
-  <summary>Solution</summary>
+Solution:
 
 ```mysql
 SELECT name
