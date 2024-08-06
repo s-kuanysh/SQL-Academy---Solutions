@@ -8,7 +8,6 @@ Here are the solutions only for publicly open problems. MySQL syntax.
 
 Difficulty: Easy
 
-<details>
   <summary>Solution</summary>
 
 ```mysql
@@ -16,7 +15,6 @@ SELECT name
 FROM Passenger;
 ```
 
-</details>
 
 2. Display the names of all airlines [(link)](https://sql-academy.org/en/trainer/tasks/2)
 
